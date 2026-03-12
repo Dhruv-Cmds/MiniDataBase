@@ -207,7 +207,7 @@ DB> delete students id=2
 ## Project Structure
 
 ```
-MiniDB/
+MiniDataBase/
 │
 ├── database/  # JSON table storage   
 │     └── logs.txt
