@@ -1,0 +1,51 @@
+[16:52:50] Data Base Started.
+[16:52:53] User used 'insert'.
+[16:57:26] Data inserted successfully.
+[16:58:13] User used 'select'.
+[16:58:16] {'id': '1', 'name': 'alex', 'age': '21', 'city': 'Houston'}
+[16:58:35] User used 'update'.
+[16:59:12] Row updated.
+[16:59:53] User used 'delete'.
+[17:00:01] Row deleted.
+[17:00:21] User used 'select'.
+[17:00:24] File path not found.
+[17:00:28] User used 'studetns'.
+[17:00:28] Invalid command type.
+[17:00:39] User used 'studetnsselect'.
+[17:00:39] Invalid command type.
+[17:00:42] User used 'select'.
+[17:00:45] File path not found.
+[17:00:56] User used 'select'.
+[17:03:25] Data Base Started.
+[17:03:25] User used 'select'.
+[17:03:39] User used 'select'.
+[17:05:12] Data Base Started.
+[17:05:13] User used 'select'.
+[17:06:24] Data Base Started.
+[17:06:25] User used 'select'.
+[17:06:27] No data to show.
+[17:07:12] User used 'show_tables'.
+[17:07:19] Data added to file successfully.
+[17:07:19] 
+Table 'students' seen.
+[17:13:02] Data Base Started.
+[17:13:04] User used 'show_tables'.
+[17:13:04] logs.txt
+[17:13:04] students
+[17:13:52] User used 'view_table_data'.
+[17:13:58] Data added to file successfully.
+[17:13:58] 
+Table 'students' seen.
+[17:14:17] User used 'delete_table'.
+[17:14:25] 
+Table 'students' Deleted successfully.
+[17:26:36] Data Base Started.
+[17:26:42] User used 'create_table'.
+[17:26:52] Table 'students' created successfully.
+[17:26:58] User used 'insert'.
+[17:27:14] Invalid column format
+[17:27:14] Data inserted successfully.
+[17:27:25] User used 'insert'.
+[17:27:44] Data Base Started.
+[17:27:47] User used 'update'.
+[17:27:58] Row updated.

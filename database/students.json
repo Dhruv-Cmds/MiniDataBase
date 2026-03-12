@@ -1,0 +1,16 @@
+{
+    "columns": [
+        "id",
+        "name",
+        "age"
+    ],
+    "rows": [
+        {
+            "id": "1",
+            "name": "alex",
+            "age": "21",
+            "city": "Houston",
+            "country": "America"
+        }
+    ]
+}
