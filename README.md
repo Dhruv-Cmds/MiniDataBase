@@ -62,8 +62,8 @@ This project is designed to understand how database systems work internally, inc
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/minidb.git
-cd minidb
+git clone https://github.com/Dhruv-Cmds/MiniDataBase.git
+cd MiniDataBasecd 
 ```
 
 Make sure you have Python installed:
