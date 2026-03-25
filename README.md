@@ -2,7 +2,7 @@
 
 MiniDB is a lightweight command-line database engine written in Python that stores tables as JSON files.
 It allows you to create tables, insert records, query data, update rows, and delete entries directly from the terminal.
-
+                         
 This project is designed to understand how database systems work internally, including concepts like table schemas, CRUD operations, and command interpreters.
 
 ---
